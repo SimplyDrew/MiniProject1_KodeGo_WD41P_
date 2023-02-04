@@ -2,3 +2,11 @@
     overflow-x: auto;
     white-space: nowrap;
 }
+
+body {
+    background-image: url(background.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
